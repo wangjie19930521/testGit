@@ -13,6 +13,13 @@ package java.lang;
 /*public class String {
 
     public static void main(String[] args) {
+        //"dsd".equals()ooooooooooookkkkkkkkkkkkkk
+        System.out.println("dsdspppppppppppppppppppppp");
+        System.out.println("dsds");
+        /////////////rrrrrrrrrrrrrrrrrrwwwwwwwwwwwww
+        ////////////[[[[[[[[[[[
+        /////////
+        222222
         //"dsd".equals()
         System.out.println("dsdsggggggggggggggggggggggggggg");
     }
