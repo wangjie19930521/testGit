@@ -13,7 +13,7 @@ package java.lang;
 /*public class String {
 
     public static void main(String[] args) {
-        //"dsd".equals()
+        //"dsd".equals()oooooooooooo
         System.out.println("dsdspppppppppppppppppppppp");
         System.out.println("dsds");
         /////////////
