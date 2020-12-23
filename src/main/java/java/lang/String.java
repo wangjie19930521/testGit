@@ -16,6 +16,6 @@ package java.lang;
         //"dsd".equals()oooooooooooo
         System.out.println("dsdspppppppppppppppppppppp");
         System.out.println("dsds");
-        /////////////
+        /////////////rrrrrrrrrrrrrrrrrr
     }
 }*/
