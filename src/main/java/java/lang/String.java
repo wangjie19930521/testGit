@@ -18,5 +18,6 @@ package java.lang;
         System.out.println("dsds");
         /////////////rrrrrrrrrrrrrrrrrrwwwwwwwwwwwww
         ////////////[[[[[[[[[[[
+        222222
     }
 }*/
