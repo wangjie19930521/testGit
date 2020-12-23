@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+}
+/*apply plugin: 'java'*/
+
+group 'com.huaxin'
+version '1.0-SNAPSHOT'
+
+
+
+sourceCompatibility = 1.8
+
+//仓库
+repositories {
+    mavenLocal();
+    //mavenCentral()表示使用中央仓库
+    mavenCentral()
+}
+
+/*gradle工程的所有jar包坐标都在dependencies属性内放置
+*每一个jar包的坐标都有三个基本元素组成
+* group,name,version
+* testCompile:表示在测试的时候起作用   表示作用域
+* 都要带上作用域
+ */
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    // https://mvnrepository.com/artifact/org.springframework/spring-context
+    compile group: 'org.springframework', name: 'spring-context', version: '5.0.2.RELEASE'
+
+    implementation 'commons-codec:commons-codec:20041127.091804'
+}
