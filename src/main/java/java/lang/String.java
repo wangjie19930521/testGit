@@ -14,7 +14,7 @@ package java.lang;
 
     public static void main(String[] args) {
         //"dsd".equals()
-        System.out.println("dsds");
+        System.out.println("dsdspppppppppppppppppppppp");
         System.out.println("dsds");
     }
 }*/
